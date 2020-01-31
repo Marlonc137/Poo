@@ -6,7 +6,7 @@ Lo primero que tenemos que hacer es bajar el archivo de instalacion del siguient
 Es importante bajar el SDK porque **vamos a programar**.
 
 La pagina se ve  asi:
-
+[sadsa](./IMG/Sin título).
 
 # Instalación y configuración de Visual Studio Code para C#.
 
