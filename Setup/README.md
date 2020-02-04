@@ -16,7 +16,7 @@ Para realizar la instalacion de Visual Studio Code, primeramente debes de ir a l
 Intalamos directamente para **Empezar a programar**
 
 La pagina la puedes encontrar de esta manera
-![Sitio web](./IMG/visualcode.png)
+![Sitio web](./IMG/Visualcode.png)
 
 Descargamos, instalamos para poder iniciar con la programacion, despues vamos a instalar la extencion para el lenguaje de programacion c#, abrimos el programa, nos dirijimos a extensiones buscamos la extension c#
 
