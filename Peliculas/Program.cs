@@ -4,10 +4,10 @@ namespace Peliculas
 {
    class Peliculas 
   {
-      public string titulo;
-      public Int16 año;
-      public string pais;
-      public string Director;
+    public string titulo;
+    public Int16 año;
+    public  string pais;
+    public string Director;
 
 
 
@@ -29,6 +29,19 @@ namespace Peliculas
 
 
             Console.WriteLine(" Pelicula: {0}, Año: {1}, Pais: {2}, Director: {3}",p1.titulo,p1.año,p1.pais,p1.Director);
+
+
+            Peliculas p2= new Peliculas();
+
+
+           p2.titulo=" El irlandes";
+           p2.año=2019;
+           p2.pais="Estados Unidos";
+           p2.Director="Martin Scorsese";
+
+
+
+            Console.WriteLine(" Pelicula: {0}, Año: {1}, Pais: {2}, Director: {3}",p2.titulo,p2.año,p2.pais,p2.Director);
         }
     }
 }
