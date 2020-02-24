@@ -11,7 +11,7 @@ namespace Peliculas
     private string Director;
 
 
-public void settitulo(string titulo)// Se usa este metodo cuando es privado
+public void settitulo(string titulo)// Estos metodos se usan cuando las variables son privadas
     {
         this.titulo= titulo;
     }
@@ -50,6 +50,21 @@ public string getdirector()
 {
   return this.Director;
 }
+
+public Peliculas(string titulo, Int16 año, string pais, string Director)//constructor 1
+{
+ this.titulo=titulo;
+ this.año=año;
+ this.pais=pais;
+ this.Director=Director;
+
+}
+ public Peliculas()// constructor 2
+ {
+
+ }
+
+
 
   }
 
