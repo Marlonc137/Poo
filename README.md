@@ -5,6 +5,6 @@
 # 
 [Actividad 2 Pelicula](./Peliculas/Program.cs)
 # 
-[Actividad 2 Pelicula](./Lista/Program.cs)
+[Actividad 3 Lista](./Lista/Program.cs)
 
 
