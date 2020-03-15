@@ -10,3 +10,5 @@
 [Actividad 4 Actores](./Actores/Program.cs)
 # 
 [Actividad 5 UML](./HML/README.md)
+
+[Actividad 6 Parametros](./parametros/README.md)
